@@ -8,5 +8,4 @@
   I reviewed the starter code and used our whiteboard picture to follow the steps I need to take to put it into code. After a few minutes of poking around and not getting the output I wanted. I did a little research to get me moving and finally get to run it with the reversed array within 15mins. 
 
 ## Solution
-<!-- Embedded whiteboard image -->
-![image](asset/arrayReverse.png)
+![Description](asset/ArrayReverse(1).png)
