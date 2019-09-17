@@ -5,7 +5,7 @@ public class ArrayReverse {
 
   //main method for running code
   public static void main(String[] args) {
-
+    //input 
     int[] arrToReverse = new int[]{1,2,3,4,5,6};
     int[] reversedArray = reverseArray(arrToReverse);
     System.out.println(Arrays.toString(reversedArray));
@@ -28,3 +28,4 @@ public class ArrayReverse {
   return array2;
   }
 }
+
