@@ -9,3 +9,4 @@
 
 ## Solution
 <!-- Embedded whiteboard image -->
+![image](asset/arrayReverse.png)
