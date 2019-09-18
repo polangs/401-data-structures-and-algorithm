@@ -9,9 +9,10 @@ public class ArrayShift {
   }
 
   public static int[] insertShiftArray(int[] arrInput, int insNum) {
-    int middleIndex = arrInput.length / 2;
     int position = 0;
     int newArray[] = new int[arrInput.length + 1];
+    int middleIndex = newArray.length / 2;
+
 
     
     for (int j = 0; j < newArray.length; j++) {
