@@ -10,4 +10,3 @@
 ## Solution
 ![Description](../../../../../asset/insertArrayShift.jpg)
 
-
