@@ -1,12 +1,13 @@
-# Reverse an Array
-   This method reverses an array.
+# Insert Array Shift
+   
 
 ## Challenge
-  This code challenge Reverse an Array, lets you create a method that accepts an array, get the length of the array and iterate through the array from the beginning to the end and should return a new set of reversed array.  
+  This code challenge should insert an element and shift the array. 
 
 ## Approach & Efficiency
-  I reviewed the starter code and used our whiteboard picture to follow the steps I need to take to put it into code. After a few minutes of poking around and not getting the output I wanted. I did a little research to get me moving and finally get to run it with the reversed array within 15mins. 
+  I reviewed the starter code and used our whiteboard picture to follow the steps I need to take to put it into code. 
 
 ## Solution
-![Description](assets/ArrayReverse(1).png)
+![Description](../../../../../asset/insertArrayShift.jpg)
+
 
