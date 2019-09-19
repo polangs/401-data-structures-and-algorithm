@@ -1,12 +1,11 @@
-# Reverse an Array
-   This method reverses an array.
+# Binary Search
+    Binary Search in a Sorted 1D Array
 
 ## Challenge
-  This code challenge Reverse an Array, lets you create a method that accepts an array, get the length of the array and iterate through the array from the beginning to the end and should return a new set of reversed array.  
-
+   This challenge should take in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index, of the array's element that is equal to the search key , or -1 if the element does not exist. 
 ## Approach & Efficiency
-  I reviewed the starter code and used our whiteboard picture to follow the steps I need to take to put it into code. After a few minutes of poking around and not getting the output I wanted. I did a little research to get me moving and finally get to run it with the reversed array within 15mins. 
-
+  I had to read the task multiple times to think of the problem domain, identify the input and the output, did visuals and wrote down the algorithm and pseudo code.
+  Read Binary Search on Wikipedia and asked questions from TA. 
 ## Solution
-![Description](assets/ArrayReverse(1).png)
+![Description](![Description](../../../../../asset/binarySearch.jpg))
 
