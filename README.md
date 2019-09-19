@@ -3,7 +3,7 @@ Table of Contents:
 Code Challenge 
 1. Array Reverse
 2. Insert Shift Array
-3.
+3. Binary Search
 4.
 5.
 6.
