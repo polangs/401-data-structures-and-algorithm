@@ -1,16 +1,15 @@
-package Data.Structures.LinkedList;
+package Data.Structures.linkedList;
 
 import org.junit.Test;
-import org.w3c.dom.Node;
 
 import static org.junit.Assert.*;
 
-public class LinkedListTest {
+public class linkedListTest {
 
   //linked list
   @Test
   public void testCreateEmptyLinkedList(){
-   LinkedList test = new LinkedListTest();
+   linkedList test = new linkedListTest();
      assertNull("Empty Linked List",
              test.head);
   }

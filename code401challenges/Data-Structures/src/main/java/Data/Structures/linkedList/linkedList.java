@@ -1,12 +1,12 @@
-package Data.Structures.LinkedList;
+package Data.Structures.linkedList;
 
 
 import org.w3c.dom.Node;
 
-public class LinkedList {
+public class linkedList {
   public Node head;
 
-  public LinkedList() {
+  public linkedList() {
 
   }
 //i Had help from quang
